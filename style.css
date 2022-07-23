@@ -1,0 +1,32 @@
+body{
+    background-color:lightgreen;
+}
+.one{
+    display:grid;
+}
+.three{
+    display:grid;
+}
+h1{
+    text-align: center;
+    color: blueviolet;
+}
+.one,.two,.three{
+    text-align: center;
+}
+.three,.two{
+    margin-top: 50px;
+}
+button{
+    background-color: lightsalmon;
+    border: 2px solid black;
+    display: inline;
+    font-size: large;
+    border-radius: 20px;;
+}
+
+textarea{
+    background-color: lightsteelblue;
+    border: 2px solid black;
+    border-radius: 20px;
+}
